@@ -1,5 +1,5 @@
 import React, { FC, ChangeEvent, useState } from "react";
-import "./App.css";
+
 import GroceryList from "./components/GroceryList";
 import { GroceryItem } from "./interfaces/item";
 
